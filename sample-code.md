@@ -1,5 +1,5 @@
 <!-- TITLE: Sample Code -->
-<!-- SUBTITLE: display table -->
+<!-- SUBTITLE: displayTable -->
 
 # Header
 
