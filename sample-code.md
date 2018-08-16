@@ -1,5 +1,4 @@
 <!-- TITLE: Sample Code -->
-<!-- SUBTITLE: function displayTable -->
 
 # function displayTable
 
