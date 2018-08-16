@@ -1,7 +1,7 @@
 <!-- TITLE: Sample Code -->
 <!-- SUBTITLE: function displayTable -->
 
-# Header
+# function displayTable
 
 
 ```javascript
