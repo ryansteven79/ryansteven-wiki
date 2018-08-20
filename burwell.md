@@ -22,4 +22,5 @@ MargotElena.com
 * Added social media buttons to the top navigation using FontAwesome.
 * Added an auto-populate search feature to the site.
 * Created a persistant footer bar about Free Shipping.
+* Improved the Google Page Speed for the site by modifiying the template using Liquid image filters. Went from 30-40 values to 85-95.
 * 
