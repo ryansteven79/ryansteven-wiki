@@ -16,7 +16,7 @@ Brand sites:
 * Created "Discover our Brands" top menu bar using SVG graphics.
 
 
-Margot Elena.com
+https://margotelena.com/
 * Started the subscription program from a Shopify app.
 	* Lots of modifications were needed to get this to functin the way we run our subscription model.
 * Added social media buttons to the top navigation using FontAwesome.
