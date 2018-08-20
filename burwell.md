@@ -29,7 +29,7 @@ MargotElena.com
 * "Hazmat Restrictions" warning on the cart page when a customer orders an alcohol-based product.
 
 
-```liquid
+```javascript
 {% if page.id == 846168083 %} <!-- /pages/subscribe-to-newsletter -->
 	{% include 'newsletter-subscribe' %}
 	{{ 'MECC-NLsignup.css' | asset_url | stylesheet_tag }}
